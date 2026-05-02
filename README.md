@@ -19,8 +19,7 @@ Ben Stearns - [@bstearns07](https://github.com/bstearns07)
 - 🧩 [Core Concepts](#-core-concepts)
 - 📝 [New Topics Covered](#-new-topics-covered)
 - 📝 [What I Learned](#-what-i-learned)
-- ▶️ [How to Run](#-how-to-run)
-- 🖼 [Screenshot](#-screenshot)
+- 🖼 [Screenshots](#-screenshots)
 
 ---
 
@@ -109,4 +108,4 @@ Players control paddles on opposite sides of the screen and compete to score poi
 
 ## 🖼 Screenshots
 
-![Game Playing](assets/pong.png)
+![Game Playing](assets/Pong.png)
